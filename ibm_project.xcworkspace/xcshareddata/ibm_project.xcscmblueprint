@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1DED8E538E58690233270DF340D14F460F0DA7F4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "13D7DA78A0B1FA90A7737DA7AF36C2B0FE9845FD" : 9223372036854775807,
+    "1DED8E538E58690233270DF340D14F460F0DA7F4" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "39233E19-82A4-4CA8-BB59-E21A81BD75A2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "13D7DA78A0B1FA90A7737DA7AF36C2B0FE9845FD" : "",
+    "1DED8E538E58690233270DF340D14F460F0DA7F4" : "ibm_project\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ibm_project",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ibm_project.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/azharfauzandz\/ibm_test_project.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "13D7DA78A0B1FA90A7737DA7AF36C2B0FE9845FD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/azharfauzandz\/ibm_project.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1DED8E538E58690233270DF340D14F460F0DA7F4"
+    }
+  ]
+}

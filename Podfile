@@ -6,15 +6,11 @@ target 'ibm_project' do
   use_frameworks!
 
   # Pods for ibm_project
-  pod 'Firebase/Core'
-  pod 'Firebase/Messaging'
   pod 'SDWebImage', '~>3.8'
 
   target 'ibm_projectTests' do
     inherit! :search_paths
     # Pods for testing
-    pod 'Firebase/Core'
-    pod 'Firebase/Messaging'
     pod 'SDWebImage', '~>3.8'
   end
 

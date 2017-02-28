@@ -4,11 +4,6 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>GoogleToolboxForMac.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>Pods-ibm_project.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -24,11 +19,6 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Protobuf.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>SDWebImage.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -37,6 +27,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>0F1960678D4E5B5C962285B57B591B88</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>1557C52BA635BE6C2E36DBEC5593E26E</key>
 		<dict>
 			<key>primary</key>
@@ -47,7 +42,17 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>7018E62D2C24884A44B5140AF71015D1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>80431EF39AA79F6C6C60BE8683BC4939</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8B0BFC4BC9EB14BCE01BBA9B43F7ECB0</key>
 		<dict>
 			<key>primary</key>
 			<true/>
