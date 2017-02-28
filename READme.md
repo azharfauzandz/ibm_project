@@ -14,4 +14,3 @@ GETTING STARTED
 FEATURES
 =====
 SDWebImageCache
-Firebase Messaging
